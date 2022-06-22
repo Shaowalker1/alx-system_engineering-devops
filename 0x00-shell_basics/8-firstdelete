@@ -1,0 +1,1 @@
+cd /tmp/my_first_directory/ && rm -r ./betty
